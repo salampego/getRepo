@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/getRepo/static/css/main.3ed1a107.css",
+    "main.js": "/getRepo/static/js/main.502081fc.js",
+    "index.html": "/getRepo/index.html",
+    "main.3ed1a107.css.map": "/getRepo/static/css/main.3ed1a107.css.map",
+    "main.502081fc.js.map": "/getRepo/static/js/main.502081fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ed1a107.css",
+    "static/js/main.502081fc.js"
+  ]
+}
